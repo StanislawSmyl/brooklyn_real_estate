@@ -11,4 +11,5 @@ Data: https://www.kaggle.com/tianhwu/brooklynhomes2003to2017
 
 
 Interactive version of Model Jupyter Notebook code: <br/>
-https://hub.mybinder.org/user/stanislawsmyl-b-lyn_real_estate-90p94bl8/tree
+[Click here](https://hub.mybinder.org/user/stanislawsmyl-b-lyn_real_estate-90p94bl8/tree
+)
